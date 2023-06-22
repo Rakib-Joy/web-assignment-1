@@ -1,0 +1,53 @@
+h2{
+    text-align: center;
+}
+
+.heading{
+    display: flex;
+}
+
+.heading .week{
+    width: 40%;
+    border-radius: 10px 5px 5px black;
+    padding-left: 30px;
+
+}
+
+.div{
+    display: flex;
+}
+
+.div li{
+    list-style-type: none;
+    padding: 6px;
+}
+
+.slides{
+  
+  border: 10px solid powderblue;
+  border-radius: 5px;
+}
+
+.starter-code{
+    border: 10px solid aqua;
+  border-radius: 5px;
+}
+
+.check-off{
+    border: 10px solid palevioletred;
+  border-radius: 5px;
+}
+
+.solution{
+    border: 10px solid seagreen;
+    border-radius: 5px;
+}
+
+.solution .tf{
+    border: 10px solid seagreen;
+    border-radius: 5px;
+    padding-top: 20px;
+}
+
+
+
